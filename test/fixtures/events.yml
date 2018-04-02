@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  date: 2018-01-30 19:43:59
+  occasion: MyString
+  price_limit: 1
+
+two:
+  title: MyString
+  date: 2018-01-30 19:43:59
+  occasion: MyString
+  price_limit: 1
